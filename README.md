@@ -1,2 +1,17 @@
-# Tensorflow
-learning Tensorflow python
+# Tensorflow python
+
+To start the venv 
+- python3 -m venv venv
+- source venv/bin/activate
+
+Install packeg
+- pip install name
+
+To of the venv
+- deactivate
+
+to see all install packages
+- pip list
+
+to create requirement.txt
+- pip freeze > requirements.txt
